@@ -31,15 +31,6 @@ To get started:
 
 ---
 
-## 📁 Repository Contents
-
-- `Marketing_Campaign_Analysis.pbix` – Power BI project file  
-- `Data/` – Sample marketing dataset  
-- `Images/` – Dashboard screenshots  
-- `README.md` – Documentation for the project  
-
----
-
 ## 🙌 Who Should Use This Project?
 
 - 🧑‍💻 Beginners learning Power BI for data analysis  
